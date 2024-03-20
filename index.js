@@ -1,0 +1,1 @@
+window.screenOrientation="sensor_landscape",loadLib("libs/min/laya.core.min.js"),loadLib("libs/min/spine-core-3.8.min.js"),loadLib("libs/min/laya.spine.min.js"),loadLib("libs/min/laya.ani.min.js"),loadLib("libs/min/laya.html.min.js"),loadLib("libs/min/laya.ui.min.js"),loadLib("libs/min/laya.physics.min.js"),loadLib("js/bundle.js");
